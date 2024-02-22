@@ -1,0 +1,8 @@
+.centeredItem {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 50vh;
+    left: calc(50vw - 48px);
+    border: 1px solid black;
+}
